@@ -1,0 +1,2 @@
+# CNotes
+An application that is under development to record daily behavior and daily life.Users can record their daily self by adding their daily life records to plan and motivate themselves. The current application is still under development, and the integrity of the first page of the project and the logical correctness of the added functions are tested at the current stage. If you encounter any problems during the test, please contact me
